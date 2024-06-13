@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yagni", "Yagni.csproj", "{3D65B9EF-200A-4F39-BE95-62E4A46689B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D65B9EF-200A-4F39-BE95-62E4A46689B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D65B9EF-200A-4F39-BE95-62E4A46689B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D65B9EF-200A-4F39-BE95-62E4A46689B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D65B9EF-200A-4F39-BE95-62E4A46689B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95E0B782-DC85-447D-B65B-7E3B21E568FB}
+	EndGlobalSection
+EndGlobal
